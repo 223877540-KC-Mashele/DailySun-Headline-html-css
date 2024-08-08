@@ -22,5 +22,7 @@ The Headline Board project is a simple web page that displays a headline with an
 1. **Clone the Repository:**
    ```bash
    git clone <repository-url>
+   ![image](https://github.com/user-attachments/assets/54440801-c16c-49f7-a05a-f906a3121052)
+
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/223877540-KC-Mashele/DailySun-Headline-html-css)
